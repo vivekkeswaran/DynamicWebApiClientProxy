@@ -1,0 +1,12 @@
+C:\Vivek\Code\CTLS.Monitoring.Common\ClientProxyTest\bin\Debug\ClientProxyTest.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\ClientProxyTest\bin\Debug\ClientProxyTest.pdb
+C:\Vivek\Code\CTLS.Monitoring.Common\ClientProxyTest\bin\Debug\ClientProxy.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\ClientProxyTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\ClientProxyTest\bin\Debug\ImpromptuInterface.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\ClientProxyTest\bin\Debug\Newtonsoft.Json.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\ClientProxyTest\bin\Debug\ClientProxy.pdb
+C:\Vivek\Code\CTLS.Monitoring.Common\ClientProxyTest\bin\Debug\ImpromptuInterface.xml
+C:\Vivek\Code\CTLS.Monitoring.Common\ClientProxyTest\bin\Debug\Newtonsoft.Json.xml
+C:\Vivek\Code\CTLS.Monitoring.Common\ClientProxyTest\obj\Debug\ClientProxyTest.csprojResolveAssemblyReference.cache
+C:\Vivek\Code\CTLS.Monitoring.Common\ClientProxyTest\obj\Debug\ClientProxyTest.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\ClientProxyTest\obj\Debug\ClientProxyTest.pdb

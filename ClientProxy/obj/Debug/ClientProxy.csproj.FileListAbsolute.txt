@@ -1,0 +1,14 @@
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\ClientProxy.dll.config
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\ClientProxy.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\ClientProxy.pdb
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\ImpromptuInterface.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\Newtonsoft.Json.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\System.Net.Http.Formatting.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\System.Web.Http.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\ImpromptuInterface.xml
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\Newtonsoft.Json.xml
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\System.Net.Http.Formatting.xml
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\System.Web.Http.xml
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\obj\Debug\ClientProxy.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\obj\Debug\ClientProxy.pdb
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\obj\Debug\ClientProxy.csprojResolveAssemblyReference.cache

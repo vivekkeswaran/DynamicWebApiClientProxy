@@ -1,0 +1,28 @@
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\CTLS.Client.Core.WebApiClientProxy.dll.config
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\CTLS.Client.Core.WebApiClientProxy.dll
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\CTLS.Client.Core.WebApiClientProxy.pdb
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\ImpromptuInterface.dll
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\Newtonsoft.Json.dll
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\System.Net.Http.Formatting.dll
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\System.Web.Http.dll
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\ImpromptuInterface.xml
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\Newtonsoft.Json.xml
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\System.Net.Http.Formatting.xml
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\System.Web.Http.xml
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\obj\Debug\CTLS.Client.Core.WebApiClientProxy.csprojResolveAssemblyReference.cache
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\obj\Debug\CTLS.Client.Core.WebApiClientProxy.dll
+C:\TFS\Monitoring\Monitoring Rewrite\MainLine\CTLS.Monitoring.BackEnd\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\obj\Debug\CTLS.Client.Core.WebApiClientProxy.pdb
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\CTLS.Client.Core.WebApiClientProxy.dll.config
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\CTLS.Client.Core.WebApiClientProxy.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\CTLS.Client.Core.WebApiClientProxy.pdb
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\ImpromptuInterface.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\Newtonsoft.Json.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\System.Net.Http.Formatting.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\System.Web.Http.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\ImpromptuInterface.xml
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\Newtonsoft.Json.xml
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\System.Net.Http.Formatting.xml
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\bin\Debug\System.Web.Http.xml
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\obj\Debug\CTLS.Client.Core.WebApiClientProxy.csprojResolveAssemblyReference.cache
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\obj\Debug\CTLS.Client.Core.WebApiClientProxy.dll
+C:\Vivek\Code\CTLS.Monitoring.Common\CTLS.Client.Core.WebApiClientProxy\obj\Debug\CTLS.Client.Core.WebApiClientProxy.pdb
